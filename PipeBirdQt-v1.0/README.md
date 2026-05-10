@@ -1,8 +1,8 @@
 # PipeBirdQt Enhanced
 
-Qt Widgets 飞鸟游戏高级版。
+Qt Widgets 飞鸟游戏。
 
-## 新增内容
+## 内容
 - 更漂亮的天空背景
 - 山脉与太阳场景
 - 半透明UI卡片
