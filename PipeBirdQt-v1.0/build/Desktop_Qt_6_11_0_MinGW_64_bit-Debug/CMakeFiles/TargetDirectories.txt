@@ -1,0 +1,5 @@
+C:/Users/27281/Desktop/qthomework/PipeBirdQt_Enhanced/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/PipeBirdQt.dir
+C:/Users/27281/Desktop/qthomework/PipeBirdQt_Enhanced/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/27281/Desktop/qthomework/PipeBirdQt_Enhanced/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/27281/Desktop/qthomework/PipeBirdQt_Enhanced/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/PipeBirdQt_autogen_timestamp_deps.dir
+C:/Users/27281/Desktop/qthomework/PipeBirdQt_Enhanced/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/PipeBirdQt_autogen.dir

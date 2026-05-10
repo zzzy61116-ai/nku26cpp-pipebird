@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+bf239554ce8d07f39675dfbb7954bdec CMakeFiles/PipeBirdQt_autogen
+07e1a50de5820c8b7a0c1da0cc42de5e PipeBirdQt_autogen/timestamp
