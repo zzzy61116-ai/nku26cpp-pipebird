@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "C:/Users/27281/Desktop/qthomework/PipeBirdQt_Coin_Enhanced_v2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/PipeBirdQtPro_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/27281/Desktop/qthomework/PipeBirdQt_Coin_Enhanced_v2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/27281/Desktop/qthomework/PipeBirdQt_Coin_Enhanced_v2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/27281/Desktop/qthomework/PipeBirdQt_Coin_Enhanced_v2",
+	"CMAKE_SOURCE_DIR" : "C:/Users/27281/Desktop/qthomework/PipeBirdQt_Coin_Enhanced_v2",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "MinGW Makefiles",
+	"INCLUDE_DIR" : "C:/Users/27281/Desktop/qthomework/PipeBirdQt_Coin_Enhanced_v2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/PipeBirdQtPro_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/27281/Desktop/qthomework/PipeBirdQt_Coin_Enhanced_v2/assets/sounds/jump.wav",
+		"C:/Users/27281/Desktop/qthomework/PipeBirdQt_Coin_Enhanced_v2/assets/sounds/score.wav",
+		"C:/Users/27281/Desktop/qthomework/PipeBirdQt_Coin_Enhanced_v2/assets/sounds/hit.wav",
+		"C:/Users/27281/Desktop/qthomework/PipeBirdQt_Coin_Enhanced_v2/assets/sounds/click.wav",
+		"C:/Users/27281/Desktop/qthomework/PipeBirdQt_Coin_Enhanced_v2/assets/sprites/bird_1.png",
+		"C:/Users/27281/Desktop/qthomework/PipeBirdQt_Coin_Enhanced_v2/assets/sprites/logo.png",
+		"C:/Users/27281/Desktop/qthomework/PipeBirdQt_Coin_Enhanced_v2/assets/sprites/bird_0.png",
+		"C:/Users/27281/Desktop/qthomework/PipeBirdQt_Coin_Enhanced_v2/assets/sprites/bird_2.png"
+	],
+	"LOCK_FILE" : "C:/Users/27281/Desktop/qthomework/PipeBirdQt_Coin_Enhanced_v2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/PipeBirdQtPro_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/6.11.0/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/27281/Desktop/qthomework/PipeBirdQt_Coin_Enhanced_v2/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/CMakeFiles/PipeBirdQtPro_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/27281/Desktop/qthomework/PipeBirdQt_Coin_Enhanced_v2/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
