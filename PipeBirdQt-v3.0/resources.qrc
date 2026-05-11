@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/sprites/bird_0.png</file>
+        <file>assets/sprites/bird_1.png</file>
+        <file>assets/sprites/bird_2.png</file>
+        <file>assets/sprites/logo.png</file>
+        <file>assets/sounds/jump.wav</file>
+        <file>assets/sounds/click.wav</file>
+        <file>assets/sounds/score.wav</file>
+        <file>assets/sounds/hit.wav</file>
+    </qresource>
+</RCC>
